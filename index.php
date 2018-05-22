@@ -17,6 +17,7 @@
 			</select>
 		
 		</form>
+		<?= 'simple test';?>
 	</body>
 		<script>
 	

@@ -18,6 +18,15 @@
 		
 		</form>
 		<?= 'simple test';?>
+
+		<?php
+			function hello($name=null){
+				return 'hello'.$name;
+			}
+			hello('garry');
+
+
+		?>
 	</body>
 		<script>
 	

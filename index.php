@@ -23,7 +23,7 @@
 			function hello($name=null){
 				return 'hello'.$name;
 			}
-			hello('garry');
+			echo hello('garry');
 
 
 		?>
